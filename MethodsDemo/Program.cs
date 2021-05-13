@@ -50,7 +50,6 @@ namespace MethodsDemo
 
             //int x = 10, y = 1;
             //int s;
-            //Console.WriteLine($"Before method: X {x} Y: {y}");
             //void Add(int first, int second, out int s)
             //{
             //    s = first + second;
